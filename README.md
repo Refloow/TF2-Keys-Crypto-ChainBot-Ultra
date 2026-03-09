@@ -5,7 +5,7 @@ Built on stable foundation (commands, trade engine and such from): https://githu
 Main difference on this bot is that it works completely onchain, bot uses a wallet admin controlls, no exchanges integrations which limits it to set network for example (polygon) and 1 stablecoin set, for example (USDT) which is still most used power combination
 for cheap fees and fast processing, for those who preffer full controll over their business and funds! (0.001 to 0.0001$ fees per transactions). If better network emerges, its possible to switch if network is EVM compatable! Tho with slight configuration changes, tho 1 network at the time!
 
-Contains all the same features as the other flagship model of the software + more:
+Contains all the same features as the other flagship model of the software + more!
 
 Self-contained **Admin Panel** Application with everything you need to manage, build, and launch and monitor your service. Built on a commercially successful foundation that has processed over $2,200,000 in transactions safely for vendors, this version is designed for global reach with support for 5+ languages, and an enhanced focus on admin control and ease of use. **Admin panel has all available statistics!** **And admin has his own Wallet interface built in, allowing oversight and management of funds from the panel. Wallet also uses global standard so admin can use any other wallet interface he might preffer over the admin wallet**
 
